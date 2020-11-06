@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+}
+
+.bordered {
+    border-radius: 5px;
+    border: 1px solid white;
+}
+
+.red-button {
+    border-radius: 5px;
+    border: 1px solid #A81E30;
+    background-color: #A81E30;
+    color: beige;
+}
+
+.mainlogo {
+    width: 35%;
+}
